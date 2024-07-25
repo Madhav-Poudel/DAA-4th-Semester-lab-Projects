@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f14fcbaf-f734-4089-bdeb-781b5a0b1155" name="Changes" comment="" />
+    <list default="true" id="f14fcbaf-f734-4089-bdeb-781b5a0b1155" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/a.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2024" />
@@ -52,6 +57,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +83,7 @@
       <updated>1713892530923</updated>
       <workItem from="1713892532383" duration="74000" />
       <workItem from="1713932005364" duration="723000" />
+      <workItem from="1716120135049" duration="23000" />
     </task>
     <servers />
   </component>
